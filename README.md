@@ -48,8 +48,8 @@
 <hr>
   <div>
  <a href="https://www.linkedin.com/in/aditi-agarwal-52aa06209/">
-    <img align="left" alt="Aditi Agarwal | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Aditi Agarwal | Linkedin" width="50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="mailto:agarwal.aditi.2017448@gmail.com">
-    <img align="left" alt="Aditi Agarwal | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Aditi Agarwal | Gmail" width="50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a></div>
