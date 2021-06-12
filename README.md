@@ -3,7 +3,7 @@
 # Aditi Agarwal
 ### Hi there 👋
 <img src="https://media1.giphy.com/media/jOmQmJkjcvB3Bc8CRb/200.webp?cid=ecf05e47yf1a97vfwa7whfkzwdhpvmvv9vtctib5d363cvyu&rid=200.webp&ct=g" height="100px" width="100px">
-<i>I am a first year Engineering Graduate from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era University, Dehradun.</a> I am a budding Software Engineer, who is currently aiming to learn all there is to learn about different technologies.</i>
+<i>I am a first year Engineering Undergraduate from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era University, Dehradun</a>. My major is Computer Science. I am a budding Software Engineer, who is currently aiming to learn all there is to learn about different technologies.</i>
 <hr>
 
 
