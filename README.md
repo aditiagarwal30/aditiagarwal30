@@ -1,7 +1,7 @@
 
 
 # Aditi Agarwal
-### Hi there 👋
+### Hello there 👋
 <img src="https://media.giphy.com/media/eJjxj10CvW22SyyeZJ/giphy.gif" height="100px" width="135px">
 <i>I am a first year Engineering Undergraduate from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era University, Dehradun</a>. My major is Computer Science. I am a budding Software Engineer, who is currently aiming to learn all there is to learn about different technologies.</i>
 <hr>
