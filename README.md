@@ -53,4 +53,4 @@
   <a href="mailto:agarwal.aditi.2017448@gmail.com">
     <img align="left" alt="Aditi Agarwal | Gmail" width="50px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a></div> 
-  /*end*/
+  
