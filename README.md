@@ -3,11 +3,11 @@
 # Aditi Agarwal
 ### Hello there 👋
 <img src="https://media.giphy.com/media/eJjxj10CvW22SyyeZJ/giphy.gif" height="100px" width="135px">
-<i>I am a first year Engineering Undergraduate from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era University, Dehradun</a>. My major is Computer Science. I am a budding Software Engineer, who is currently aiming to learn all there is to learn about different technologies.</i>
+<i>I am a second year Engineering Undergraduate from <a href="https://www.geu.ac.in/" target="_blank">Graphic Era University, Dehradun</a>. My major is Computer Science. I am a budding Software Engineer, who is currently aiming to learn all there is to learn about different technologies.</i>
 <hr>
 
 
-- <img src="https://media1.giphy.com/media/4FQMuOKR6zQRO/giphy.webp?cid=ecf05e47ca2px6l7utfudos1ot8n85c4734nnxv97yytv78i&rid=giphy.webp&ct=g" height="20vw" width="20vw"> I’m currently learning Data Science, Machine Learning, Web Development, Python.
+- <img src="https://media1.giphy.com/media/4FQMuOKR6zQRO/giphy.webp?cid=ecf05e47ca2px6l7utfudos1ot8n85c4734nnxv97yytv78i&rid=giphy.webp&ct=g" height="20vw" width="20vw"> I’m currently learning Flutter, Machine Learning and Web Development.
 - <img src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e477th2v6yii6g6y4llcetz24q8nmnoup03fs5kzo0v&rid=200.webp&ct=g" height="20vw" width="20vw"> I’m looking to collaborate on <a href="https://github.com/aditiagarwal30" target="_blank">GitHub.</a> 
 - <img src="https://media2.giphy.com/media/j5Q5fFH4zGJ9TkNnrw/200w.webp?cid=ecf05e47y231z4bzrm9l0eut1o7d0z9t9dbypfgj2bmf419m&rid=200w.webp&ct=g" height="20vw" width="20vw"> How to reach me: E-mail : agarwal.aditi.2017448@gmail.com
 - <img src="https://media4.giphy.com/media/fnSUqVP4VBp5nreSul/200w.webp?cid=ecf05e47luuw7ma928fwfeif9s6989wr336iynpvkwpulsdb&rid=200w.webp&ct=g" height="20vw" width="20vw"> Pronouns: She/Her
